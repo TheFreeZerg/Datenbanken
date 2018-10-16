@@ -1,0 +1,37 @@
+TODO:
+- Beschreibung des Geschäftsmodells(Case-Study)(inhalt kl. Präsentation)
+- Name der Firma/Gruppe(inhalt kl. Präsentation)
+- kurze Beschreibung der Firma/Gruppe (inhalt kl. Präsentation)
+- Logo
+- Artwork
+- dynamische Webseite
+- Entity-Relationship Modell
+- Physische Datenmodelle
+- Implementierungsskripte für Mssql, Mysql, Oracle
+- Beispiel SQL Abfragen
+- Beispieldaten(Wie in Vl 1 das Handout glaube ich)
+- Erstellen von Präsentationen/Angebote& Vortragen(Zwei Große, eine Kleine.)
+- ggf. Feedback einarbeiten(Nicht vergessen! )
+- Tests
+- Views, Indexe (Was soll das sein? -> Stand so auf der Folie)
+
+
+- Welches Geschäftsmodell? (Bekanntes Geschäftsmodell mit potential zur Weiterentwicklung)
+- Aufgabenverteilung/Bereichsverteilung(Bedingt, da jeder Entwicklungsarbeit leisten soll| Evt in Geschäftsbereiche aufteilen)
+- Wir arbeiten wir zusammen?
+ ==> Mein Vorschlag: GitHub & mindestens wöchentliche commits
+- Dokumentation wer was wann gemacht hat
+ ==> Mein Vorschlag: Jeder trägt seine Arbeit eigenständig in eine Datei ein.
+
+- Wann arbeitet wer gemeinsam? - Wann müssen wir uns treffen?
+ ==> Mein Vorschlag Spontan ?
+
+- Meilensteine definieren!(inhalt kl. Präsentation| WICHTIG: gr. Präsentation orientiert sich daran(Somit: gut besprechen)!)
+--> Weniger ist mehr. Quasi Projekt in Sinnabschnitte teilen.
+
+- WICHTIG: Becking ist Kunde! Kunde ist König.
+==> Besprechen wie wir gegenüber Becking auftreten etc.
+
+- WICHTIG: Bezüglich der Präsentationen mehr auf dem Anforderungsblatt im Ilias
+ inclusive Datum und Beschreibung der Inhalte dieser Präsentationen.
+

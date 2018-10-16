@@ -1,0 +1,31 @@
+Ich brauche vorher die Namen auf GitHub von Euch, damit ich euch einladen kann.
+Anschlieﬂend: https://github.com/SebastianSossna/Datenbanken/invitations
+
+git clone https://github.com/SebastianSossna/Datenbanken.git
+
+
+Welche Git-Strategie bevorzugt ihr?
+
+
+
+Jeder einen eigenen branch? :
+cd Datenbanken
+git checkout -b NEUERBRANCHNAME
+git push --set-upstream origin NEUERBRANCHNAME
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

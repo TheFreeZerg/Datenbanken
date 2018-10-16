@@ -1,0 +1,72 @@
+Wir sind eine Person mehr als erlaubt. Maxgruppengröße 6. Das habe ich verpennt.
+Jedenfalls werde ich das dann bei Gelegenheit mal ansprechen, ob 7 Leute okay sind.
+
+
+Wir haben 4 Praktika und 3 Tage die Woche frei(Freitag, Samstag, Sonntag).
+Ich rechne mit 8Std/Arbeitstag. Somit hat jeder 24Stunden für 4 Praktika und
+6Stunden für Datenbanken die Woche.
+Jeder hat ein Privatleben, daher sollten wir alle verstehen, wenn jemand mal nicht kann.
+Effizient gesehen, schätze ich, dass eine Person pro Woche nichts beitragen kann.
+Und noch eine halbe Person quasi, wo quasi etwas Privates anfällt.
+
+==> ca 33std/Woche haben wir für das Projekt.
+25% Programm außerhalb DB => Das entspricht ~1.5Leuten==> Aufrunden auf 2 Leute.
+Und 75% Datenbankspezifische Inhalte=> Rest von 5 Leuten.
+
+WICHTIG: Niemand möchte die Nächte durchmachen, also lasst uns zusammen auf die Einhaltung 
+des Zeitplans(Meilensteine) achten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----SONSTIGES-----=> Nicht wichtig
+v
+v
+v
+v
+v
+v
+
+Arbeit über Github&
+Wöchentliche Commits
+
+Wir denken uns selber ein Geschäftsfeld aus mit Potential zur Weiterentwicklung(So wie in VL1).
+
+
+TODO:
+- Logo
+- Artwork
+- dynamische Webseite
+- Entity-Relationship Modell
+- Physische Datenmodelle
+- Implementierungsskripte für Mssql, Mysql, Oracle
+- Beispieldaten(Wie in Vl 1 das Handout)
+- GUI muss programmiert werden
+- 
+
+--> Gemeinsam, einzeln, kleinere Gruppen Arbeiten. Wann? Und Wie arbeiten wir gemeinsam?
+
+- views, Indexe ==> Was ist damit gemeint
+
+- Kundenpräsentation planen
+- Präsentationen erstellen
+- Zeit um Feedbacks einzuarbeiten
+-> Dokumentation 
+-> Tests schreiben => Evaluieren evt.
+
+==> Meilensteine definieren
